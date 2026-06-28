@@ -1,1 +1,12 @@
 @import "tailwindcss";
+@import url('https://googleapis.com');
+
+:root{
+    --fondo: #FBF6EE;
+    --borde: #C45A33;
+    --text: #2E2A24;
+} 
+
+@theme{
+    --font-fraunces: "Fraunces", serif;
+}
