@@ -6,7 +6,7 @@ function Navbar() {
     <nav className='navbarbg bg-[var(--fondo)] p-3 h-14 flex justify-between border-[var(--borde)] border-b-[1.5px] items-center'>
     <ul>
      <li>
-        <h2 className='text-2xl font-semibold font-fraunces'>Pris</h2>
+        <h2 className='text-2xl font-normal font-fraunces'>Pris</h2>
       </li> 
       </ul>
 
