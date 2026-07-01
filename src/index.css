@@ -1,12 +1,14 @@
 @import "tailwindcss";
 @import url('https://googleapis.com');
 
-:root{
-    --fondo: #FBF6EE;
-    --borde: #C45A33;
-    --text: #2E2A24;
+body{ 
+    background-color: #F5EBDD;
 } 
 
 @theme{
     --font-fraunces: "Fraunces", serif;
+     --color-fondo: #FBF6EE;
+    --color-borde: #C45A33;
+    --color-text: #2E2A24;
+    --font-crimson: "Crimson", serif;
 }
