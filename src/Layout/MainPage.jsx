@@ -9,12 +9,12 @@ function MainPage() {
 
   return (
     <>
-      <Hero/>
-      <NavBar/>
-      <Projects/>
-      <Skills/>
-      <About/>
-      <Contact/>
+    <NavBar/>
+    <Hero/>
+    <About/>
+    <Projects/>
+    <Skills/>
+    <Contact/>
     </>
   )
 }
