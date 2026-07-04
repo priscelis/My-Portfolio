@@ -7,8 +7,14 @@ body{
 
 @theme{
     --font-fraunces: "Fraunces", serif;
+     --font-crimson: "Crimson", serif;
      --color-fondo: #FBF6EE;
     --color-borde: #C45A33;
-    --color-text: #2E2A24;
-    --font-crimson: "Crimson", serif;
+    --color-text: ;
+    --color-secundario: #EFD3C2;
+}
+
+h1,h2,h3,h4,h5, p, a{
+    font-family: "Fraunces", serif;
+    color: #2E2A24;
 }
