@@ -15,7 +15,7 @@ function Hero() {
          </div>
           </div>
 
-          <div className="border-amber-700 border-4 h-100 rounded-full w-100 bg-blue-900 overflow-hidden">
+          <div className="border-borde border-4 h-100 rounded-full w-100 bg-blue-900 overflow-hidden">
             <img src="https://images.unsplash.com/photo-1686454116831-05e1bbe04ee7?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" className="object-cover w-full h-full"/>
           </div>
       </section>
